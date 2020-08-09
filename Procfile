@@ -1,1 +1,1 @@
-web: gunicorn SocketServer:app
+web: gunicorn app:app
